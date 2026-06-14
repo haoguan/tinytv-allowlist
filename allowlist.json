@@ -7,15 +7,14 @@
     {
       "handle": "@Blippi",
       "label": "Blippi"
-    },
-    {
-      "handle": "@thomasandfriends",
-      "label": "Thomas and Friends"
     }
   ],
   "approvedPlaylists": [
     {
       "url": "https://www.youtube.com/playlist?list=PL8TioFHubWFusuefXqEfdq21pZsv2oWe4"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLVKXDhi02s8pAXISgNlamKue6Vw2hxn6F"
     }
   ]
 }
