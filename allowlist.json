@@ -12,5 +12,10 @@
       "handle": "@thomasandfriends",
       "label": "Thomas and Friends"
     }
+  ],
+  "approvedPlaylists": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PL8TioFHubWFusuefXqEfdq21pZsv2oWe4"
+    }
   ]
 }
