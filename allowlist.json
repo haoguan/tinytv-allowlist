@@ -26,7 +26,12 @@
     {
       "id": "baby",
       "label": "Baby",
-      "approvedChannels": [],
+      "approvedChannels": [
+        {
+          "handle": "@BuddySonStorytime",
+          "label": "Buddy Son Storytime"
+        }
+      ],
       "approvedPlaylists": []
     }
   ],
