@@ -1,4 +1,35 @@
 {
+  "defaultProfileId": "toddler",
+  "profiles": [
+    {
+      "id": "toddler",
+      "label": "Toddler",
+      "approvedChannels": [
+        {
+          "handle": "@msrachel",
+          "label": "Ms. Rachel"
+        },
+        {
+          "handle": "@Blippi",
+          "label": "Blippi"
+        }
+      ],
+      "approvedPlaylists": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PL8TioFHubWFusuefXqEfdq21pZsv2oWe4"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLVKXDhi02s8pAXISgNlamKue6Vw2hxn6F"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "label": "Baby",
+      "approvedChannels": [],
+      "approvedPlaylists": []
+    }
+  ],
   "approvedChannels": [
     {
       "handle": "@msrachel",
